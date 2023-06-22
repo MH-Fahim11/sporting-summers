@@ -1,0 +1,20 @@
+[
+    {
+        "key" : 1,
+        "itemHeader": "Cricket is one of world's most popular game",
+        "itemTitle": "Cricket is a popular sport played worldwide. It involves two teams, each consisting of eleven players. The objective is to score more runs than the opposing team. The game is played on a grass field with a rectangular pitch in the center.",
+        "img": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1167&q=80"
+    },
+    {
+        "key" : 2,
+        "itemHeader": "Football is the most popular game in the world",
+        "itemTitle": "Football, also known as soccer, is a widely adored sport played across the globe. It involves two teams, each consisting of eleven players. The objective is to score goals by maneuvering the ball into the opponent's net while defending one's own.",
+        "img": "https://images.unsplash.com/photo-1569863959165-56dae551d4fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80"
+    },
+    {
+        "key" : 3,
+        "itemHeader": "The more difficult the victory, the greater the happiness in winning.",
+        "itemTitle": "In sports, victories that are hard-earned and require perseverance, dedication, and resilience tend to be more rewarding. When athletes face tough competition or formidable obstacles, the journey towards victory becomes arduous.",
+        "img": "https://images.unsplash.com/photo-1624176524047-f78e523f359e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1331&q=80"
+    }
+]
